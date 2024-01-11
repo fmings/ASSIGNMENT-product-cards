@@ -1,3 +1,35 @@
 body {
   background-color: blanchedalmond;
 }
+
+.card-title {
+  border: 1px solid lightblue;
+}
+
+.card-text {
+  text-align: justify;
+  padding: 16px;
+}
+
+.list-group-item, .pricing {
+  font-weight: bold;
+}
+
+.pricing {
+  line-height: 0.25;
+}
+
+.availability {
+  background-color: darkgray;
+  color: yellow;
+  width: 100%;
+}
+
+.card {
+  height: 1100px;
+  margin-top: 10px;
+}
+
+.card-body {
+  padding: 0px;
+}
